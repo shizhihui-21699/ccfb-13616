@@ -1,0 +1,431 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.PersistenceAudit-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/sources",
+      "importPath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/CodeSigning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/DiffEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/FileSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PathExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PersistenceCollector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ReportHTML.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ScriptParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Tracer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/TrustEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "PersistenceAudit",
+      "moduleOutputPath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/Modules/PersistenceAudit.swiftmodule",
+      "objects" : [
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/CodeSigning.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/DiffEngine.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/FileSystem.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Models.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PathExtensions.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PersistenceCollector.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ReportHTML.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ScriptParser.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Tracer.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/TrustEngine.swift.o",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j14",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "PersistenceAudit_main",
+        "-swift-version",
+        "5",
+        "-parse-as-library",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "persistenceaudit"
+      ],
+      "outputFileMapPath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/CodeSigning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/DiffEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/FileSystem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PathExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PersistenceCollector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ReportHTML.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ScriptParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Tracer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/TrustEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/Modules/PersistenceAudit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/CodeSigning.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/DiffEngine.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/FileSystem.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Models.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PathExtensions.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PersistenceCollector.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ReportHTML.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ScriptParser.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Tracer.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/TrustEngine.swift",
+        "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/main.swift"
+      ],
+      "tempsPath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "PersistenceAudit" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "PersistenceAudit",
+      "-package-name",
+      "persistenceaudit",
+      "-c",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/CodeSigning.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/DiffEngine.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/FileSystem.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Models.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PathExtensions.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PersistenceCollector.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ReportHTML.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ScriptParser.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Tracer.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/TrustEngine.swift",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/main.swift",
+      "-I",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j14",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "PersistenceAudit_main",
+      "-swift-version",
+      "5",
+      "-parse-as-library",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "persistenceaudit",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "PersistenceAudit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit-entitlement.plist"
+    },
+    "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/CodeSigning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/DiffEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/FileSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PathExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PersistenceCollector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ReportHTML.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ScriptParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Tracer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/TrustEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/sources"
+    },
+    "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/CodeSigning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/DiffEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/FileSystem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PathExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/PersistenceCollector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ReportHTML.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/ScriptParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/Tracer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/TrustEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/PersistenceAudit.product/Objects.LinkFileList"
+    },
+    "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

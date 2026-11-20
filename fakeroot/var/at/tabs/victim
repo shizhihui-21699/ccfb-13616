@@ -1,0 +1,1 @@
+*/10 * * * * /usr/bin/env DYLD_FRAMEWORK_PATH=/Users/shizhihui/ccfb/runs/13616/workspace/fakeroot/opt/evilcorp/lib /bin/echo heartbeat

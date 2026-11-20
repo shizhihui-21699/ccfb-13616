@@ -1,0 +1,73 @@
+{
+  "": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceAudit.d",
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceAudit.o",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/primary.swiftdeps"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/CodeSigning.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/CodeSigning.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/CodeSigning~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/CodeSigning.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/CodeSigning.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/DiffEngine.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/DiffEngine.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/DiffEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/DiffEngine.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/DiffEngine.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/FileSystem.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/FileSystem.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/FileSystem.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/FileSystem.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Models.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Models.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Models.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Models.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PathExtensions.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PathExtensions.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PathExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PathExtensions.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PathExtensions.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/PersistenceCollector.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceCollector.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceCollector~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceCollector.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/PersistenceCollector.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ReportHTML.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ReportHTML.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ReportHTML~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ReportHTML.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ReportHTML.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/ScriptParser.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ScriptParser.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ScriptParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ScriptParser.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/ScriptParser.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/Tracer.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Tracer.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Tracer~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Tracer.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/Tracer.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/TrustEngine.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/TrustEngine.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/TrustEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/TrustEngine.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/TrustEngine.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/Sources/PersistenceAudit/main.swift": {
+    "object": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/main.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/main.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/13616/workspace/PersistenceAudit/.build/arm64-apple-macosx/release/PersistenceAudit.build/main.dia"
+  }
+}
